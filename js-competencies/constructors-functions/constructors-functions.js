@@ -26,6 +26,7 @@ function EgyptianGoddesses(name, oversees, strength, weakness) {
 var maatCharacteristics = ['Maat', 'Truth and Justice', 'Balancing and Just', 'Exacting in her standards']
 
 //Code here
+let maat = new EgyptianGoddesses(maatCharacteristics[0], maatCharacteristics[1], maatCharacteristics[2] maatCharacteristics[3])
 
 
 
