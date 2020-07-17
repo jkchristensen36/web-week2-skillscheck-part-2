@@ -10,7 +10,9 @@
 //use the built-in array method .map
   
   //Code here
-
+  // function dragonMapper(array){
+  //   let dragonMap = array.map(element => element + "...here be dragons");
+  // }
 
 
 //////////////////PROBLEM 2////////////////////
@@ -21,6 +23,12 @@
 //cookieLoversOnly should return the filtered array.
   
   //Code here
+  // cookieLoversOnly(array){
+  //   let cookiesOnly = array.filter(function(e){
+  //     return e.favoriteCookie === undefined;
+  //   })
+  //   return cookiesOnly;
+  // }
 
 
 //////////////////PROBLEM 3////////////////////
